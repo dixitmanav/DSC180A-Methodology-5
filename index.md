@@ -1,4 +1,4 @@
-# Manav Dixit (mudixit@ucsd.edu)
+## Manav Dixit (mudixit@ucsd.edu)
 ## Section: B10
 ## Mentor: Liang Tian
 
